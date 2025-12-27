@@ -1,0 +1,26 @@
+Requirements
+
+Python 3.12.4
+
+DJANGO
+VERSION 6
+
+mysqlclient
+Name: mysqlclient
+Version: 2.2.7
+
+djangorestframework
+Name: djangorestframework
+Version: 3.16.1
+
+Djoser
+2.3.3
+
+pip
+25.3
+pipenv
+2026.0.3
+
+virtualenv
+20.35.4
+

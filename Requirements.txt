@@ -17,3 +17,16 @@ Djoser
 2.3.3
 
 
+API ENDPOINTS
+
+/api/menu-items/
+
+/api/menu-items/1
+
+/api/booking/
+
+/api/booking/1
+
+/auth/
+
+/api-token-auth/

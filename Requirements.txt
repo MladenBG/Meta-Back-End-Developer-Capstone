@@ -16,11 +16,4 @@ Version: 3.16.1
 Djoser
 2.3.3
 
-pip
-25.3
-pipenv
-2026.0.3
-
-virtualenv
-20.35.4
 
